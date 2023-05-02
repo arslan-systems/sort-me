@@ -31,13 +31,13 @@ end
 
 Comparing items:
 
-Progress: [======= ] 33%
+Progress: [=======             ] 33%
 Which item is more important? [1/2]
 1. go to the gym
 2. get a job offer
 2
 
-Progress: [============== ] 66%
+Progress: [==============      ] 66%
 Which item is more important? [1/2]
 1. go to the gym
 2. buy a car
