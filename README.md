@@ -22,6 +22,7 @@ SortMe is a bash script that helps you prioritize items by asking you to compare
 
 ```
 $ ./sortme.sh
+
 Enter items, one per line. Enter 'end' when done:
 go to the gym
 get a job offer
@@ -32,28 +33,24 @@ Comparing items:
 
 Progress: [======= ] 33%
 Which item is more important? [1/2]
-
-    go to the gym
-    get a job offer
-    2
+1. go to the gym
+2. get a job offer
+2
 
 Progress: [============== ] 66%
 Which item is more important? [1/2]
-
-    go to the gym
-    buy a car
-    1
+1. go to the gym
+2. buy a car
+1
 
 Progress: [====================] 100%
 Which item is more important? [1/2]
-
-    get a job offer
-    buy a car
-    1
+1. get a job offer
+2. buy a car
+1
 
 Sorted items:
-
-    get a job offer
-    go to the gym
-    buy a car
+1. get a job offer
+2. go to the gym
+3. buy a car
 ```
